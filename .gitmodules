@@ -1,0 +1,3 @@
+[submodule "projects/devfriends/df-library"]
+	path = projects/devfriends/df-library
+	url = git@github.com:dev-friends/df-library.git

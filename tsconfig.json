@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@devfriends/df-library": [
+        "dist/devfriends/df-library"
+      ],
+      "@devfriends/df-library/*": [
+        "dist/devfriends/df-library/*"
+      ]
+    }
   }
 }
